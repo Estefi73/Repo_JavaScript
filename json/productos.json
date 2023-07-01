@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "nombre": "Mate Bellota",
+        "precio": 2000,
+        "imagen": "../images/mate_bellota.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": "Mate Captus",
+        "precio": 2100,
+        "imagen": "../images/mate_captus.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mate Corazón",
+        "precio": 1800,
+        "imagen": "../images/mate_corazon.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Mate Frida",
+        "precio": 2500,
+        "imagen": "../images/mate_frida.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Mate Gatito",
+        "precio": 2400,
+        "imagen": "../images/mate_gatito.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Mate Harry",
+        "precio": 2800,
+        "imagen": "../images/mate_harry.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Mate Homero",
+        "precio": 3000,
+        "imagen": "../images/mate_homero.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Mate Llama",
+        "precio": 3400,
+        "imagen": "../images/mate_llama.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Mate Mandala",
+        "precio": 2500,
+        "imagen": "../images/mate_mandala.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Mate Mariposa",
+        "precio": 2750,
+        "imagen": "../images/mate_mariposa.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Mate Mujer",
+        "precio": 2200,
+        "imagen": "../images/mate_mujer.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Mate Música",
+        "precio": 2000,
+        "imagen": "../images/mate_musica.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Mate Palta",
+        "precio": 2200,
+        "imagen": "../images/mate_palta.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Mate Charly",
+        "precio": 2900,
+        "imagen": "../images/mate_charly.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Mate Maradona",
+        "precio": 3400,
+        "imagen": "../images/mate_maradona.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Mate Messi",
+        "precio": 3400,
+        "imagen": "../images/mate_messi.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Mate Solari",
+        "precio": 2700,
+        "imagen": "../images/mate_solari.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Mate El Principito",
+        "precio": 2600,
+        "imagen": "../images/mate_principito.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Mate Rosa",
+        "precio": 2800,
+        "imagen": "../images/mate_rosa.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Mate Stitch",
+        "precio": 3000,
+        "imagen": "../images/mate_stitch.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Mate Tulipan",
+        "precio": 2300,
+        "imagen": "../images/mate_tulipan.jpg"
+    }
+]
